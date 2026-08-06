@@ -2,7 +2,7 @@
 
 - I'm currently a Doctoral student in computer science.
 - For my research in explainable AI, I programme in Python.
-- For fun, I'm learning Go and general back-end development.
+- For fun, I code in Go and TypeScript.
 <!--
 **lulock/lulock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
