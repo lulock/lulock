@@ -1,8 +1,8 @@
 ## Leila Methnani ✨ lulock 
 
-- I'm currently a Doctoral student in computer science.
+- Software engineer with a background in explainable AI research. 
 - For my research in explainable AI, I programme in Python.
-- For fun, I code in Go and TypeScript.
+- For fun, I code in Go, TypeScript, and Java.
 <!--
 **lulock/lulock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
